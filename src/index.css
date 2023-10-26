@@ -135,6 +135,11 @@ a:hover {
   color:rgb(95, 94, 94);
 }
 
+.in-text-link {
+  font-size: medium;
+  text-decoration: underline;
+}
+
 #projects-section {
   display: flex;
   flex-direction: column;
@@ -288,6 +293,10 @@ a:hover {
 
   .internal-email-button {
     font-size: small;
+  }
+
+  .in-text-link {
+    font-size: xx-small;
   }
 }
 

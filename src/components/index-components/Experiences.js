@@ -50,8 +50,8 @@ function Experiences() {
                     <div className="vertical-line"></div>
                 </div>
                 <div className="job-description">
-                    <a href="https://watson.brown.edu/chrhs/" target="_blank" rel="noreferrer" >Research Assistant • Center for Human Rights and Humanitarian Studies➔</a>
-                    <p>Worked on a study about civil-military coordination during COVID-19. Presented our poster at Public Health Research Day and received an UTRA award from Brown. Created and analyzed a list of the entire institutional framework for pandemic response in the USA. Interviewed relevant response leaders and synthesized interview information to help create publication.</p>
+                    <a href="https://watson.brown.edu/chrhs/research/civil-military-policy-coordination-COVID" target="_blank" rel="noreferrer" >Research Assistant • Center for Human Rights and Humanitarian Studies➔</a>
+                    <p>Worked on <a className="in-text-link" href="https://watson.brown.edu/chrhs/files/chrhs/imce/research/2023/US_COVID_Report_25Aug.pdf" target="_blank" rel="noreferrer">a study➔</a> about civil-military coordination during COVID-19. Presented our poster at Public Health Research Day and received an UTRA award from Brown. Created and analyzed a list of the entire institutional framework for pandemic response in the USA. Interviewed relevant response leaders and synthesized interview information to help create publication.</p>
                 </div>
             </div>
 

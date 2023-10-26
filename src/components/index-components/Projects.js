@@ -16,7 +16,7 @@ function Projects() {
                 <img className="project-image" alt=" Simpl News website" src={simpl}></img>
                 <div className="project-description">
                     <a href="https://github.com/ABashir01/simpl-news" target="_blank" rel="noreferrer" >Simpl News➔</a>
-                    <p>Built using Python, Flask, Frozen Flask, and BeautifulSoup. A stripped down HTML-only website that aims to make news content more easily accessible by being more easily loadable in slow-internet areas where more complicated modern websites might take a while to load in. Inspired by Brutalist Web Design principles in terms of design and accessibility.</p>
+                    <p>Built using Python, Flask, Frozen Flask, and BeautifulSoup. A stripped down HTML-only website that aims to make news content more easily accessible by being more easily loadable in slow-internet areas where more complicated modern websites might take a while to load in. Inspired by <a className="in-text-link" href="https://brutalist-web.design/" target="_blank" rel="noreferrer">Brutalist Web Design➔</a> principles in terms of design and accessibility.</p>
                 </div>
             </div>
         </section>
