@@ -10,8 +10,8 @@ function Hero() {
                     <p>I'm currently interested in and searching for roles where I can do the above.</p>
                 </div>
                 <div className="icons-bar">
-                    <a className="button-link" href="https://www.linkedin.com/in/ahad-bashir-b5382b1b7/" target="_blank"><button className="linkedin">View LinkedIn</button></a>
-                    <a className="button-link" href="https://github.com/ABashir01" target="_blank"><button  className="linkedin">View GitHub</button></a>
+                    <a className="button-link" href="https://www.linkedin.com/in/ahad-bashir-b5382b1b7/" target="_blank" rel="noreferrer" ><button className="linkedin">View LinkedIn</button></a>
+                    <a className="button-link" href="https://github.com/ABashir01" target="_blank" rel="noreferrer" ><button  className="linkedin">View GitHub</button></a>
                     
                 </div>
             </div>
