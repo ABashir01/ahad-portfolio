@@ -11,7 +11,7 @@ function Experiences() {
                 </div>
                 <div className="job-description">
                     <a href="https://www.uab.edu/soph/home/biostatistics" target="_blank" rel="noreferrer" >Data Analyst Intern • University of Alabama at Birmingham➔</a>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+                    <p>Directly working with Professor Gary Cutter in order to clean up, process, and analyze some data for biostatistical research. Using Python and SAS to organize and consolidate multiple databases of which multiple of them have over 10,000 results.</p>
                 </div>
             </div>
             <div className="job-card">
@@ -21,7 +21,7 @@ function Experiences() {
                 </div>
                 <div className="job-description">
                     <a href="https://www.uab.edu/it/home/security" target="_blank" rel="noreferrer" >Information Security Intern • University of Alabama at Birmingham➔</a>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                    <p>Worked with multiple teams at UAB’s Information Security division. Used Python to create a tool to automate answering of reported spam emails. I also was in charge of sorting and labeling over 300 desktop applications and updating the security protocol for all nearly 23,000 employees.</p>
                 </div>
             </div>
             <div className="job-card">
@@ -31,7 +31,7 @@ function Experiences() {
                 </div>
                 <div className="job-description">
                     <a href="https://www.bisweb.org/" target="_blank" rel="noreferrer" >Website Developer • Birmingham Islamic Society➔</a>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                    <p>Working with a team of 2 other developers on internal tools and the website for Birmingham Islamic Society. Used Apex and Javascript to solve an identified issue with marriage applications, as well as to create an internal system for managing bank transactions. Also was in charge of mapping and organizing the cemetery section of the website.</p>
                 </div>
             </div>
             <div className="job-card">
@@ -41,7 +41,7 @@ function Experiences() {
                 </div>
                 <div className="job-description">
                     <a href="https://www.nonviolenceinternational.net/" target="_blank" rel="noreferrer" >Intern • Nonviolence International➔</a>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                    <p>Used MySQL to maintain the Nonviolent Tactics Database. Solved multiple self-identified website issues using NationBuilder, along with traditional HTML + CSS. Also managed finances for multiple partnered organizations and led multiple team meetings.</p>
                 </div>
             </div>
             <div className="job-card">
@@ -51,7 +51,7 @@ function Experiences() {
                 </div>
                 <div className="job-description">
                     <a href="https://watson.brown.edu/chrhs/" target="_blank" rel="noreferrer" >Research Assistant • Center for Human Rights and Humanitarian Studies➔</a>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                    <p>Worked on a study about civil-military coordination during COVID-19. Presented our poster at Public Health Research Day and received an UTRA award from Brown. Created and analyzed a list of the entire institutional framework for pandemic response in the USA. Interviewed relevant response leaders and synthesized interview information to help create publication.</p>
                 </div>
             </div>
 
