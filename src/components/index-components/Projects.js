@@ -1,10 +1,18 @@
-import abilityle from '../../Dota 2 Abilityle Screenshot 2.png'
-import simpl from '../../Simpl News Screenshot.png'
+import abilityle from '../../Dota 2 Abilityle Screenshot 2.png';
+import simpl from '../../Simpl News Screenshot.png';
+import calc from '../../Artist Similarity Calculator Screenshot.png';
 
 function Projects() {
     return (
         <section id="projects-section">
             <h2>Projects</h2>
+            <div className="project-card">
+                <img className="project-image" alt="Artist Similarity Calculator website" src={calc}></img>
+                <div className="project-description">
+                    <a href="https://github.com/ABashir01/artist-similarity-calculator" target="_blank" rel="noreferrer" >Artist Similarity Calculator➔</a>
+                    <p>Built using React and the Spotify API. A simple calculator I made to give an idea of how closely related 2 music artists are based on genres and similar artists. I made this to help with music matchmaking between the members of my club, Music Connect.</p>
+                </div>
+            </div>
             <div className="project-card">
                 <img className="project-image" alt="Dota 2 Abilityle website" src={abilityle}></img>
                 <div className="project-description">
