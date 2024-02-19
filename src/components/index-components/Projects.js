@@ -1,11 +1,19 @@
 import abilityle from '../../Dota 2 Abilityle Screenshot 2.png';
 import simpl from '../../Simpl News Screenshot.png';
 import calc from '../../Artist Similarity Calculator Screenshot.png';
+import two_houses from '../../Two Houses Screenshot.png';
 
 function Projects() {
     return (
         <section id="projects-section">
             <h2>Projects</h2>
+            <div className="project-card">
+                <img className="project-image" alt=" Two Houses website" src={two_houses}></img>
+                <div className="project-description">
+                    <a href="https://github.com/ABashir01/2-houses-and-a-plague" target="_blank" rel="noreferrer" >Two Houses➔</a>
+                    <p>Built using the MERN stack (MongoDB, Express.js, React, Node.js). An online implementation of <a className="in-text-link" href="https://www.tuesdayknightgames.com/tworoomsandaboom" target="_blank" rel="noreferrer">Two Rooms and a Boom➔</a> where you can use your phone instead of the cards.</p>
+                </div>
+            </div>
             <div className="project-card">
                 <img className="project-image" alt="Artist Similarity Calculator website" src={calc}></img>
                 <div className="project-description">
